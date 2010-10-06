@@ -1,0 +1,9 @@
+Convert scalars and matrix in Octave file format to OpenOffice math
+representation.
+
+First save any variable in octave with
+save filename
+
+then
+python octave2math.py filename
+
